@@ -26,20 +26,25 @@ Install `playsound` with:
 
 ```bash
 pip install playsound
+```
+## ▶️ How to Run
 
-##▶️ How to Run
-1.Make sure your .wav files (named a.wav, b.wav, etc.) are placed inside a folder called animal sounds.
-2.Run the script:
-    python animalese.py
-Type your message when prompted — you'll hear it spoken in Animalese!
 
-##💡 Features to Add (Future Ideas)
+-Make sure your .wav files (named a.wav, b.wav, etc.) are placed inside a folder called animal sounds.
+
+-Run the script:
+   ``` python animalese.py ```
+   
+-Type your message when prompted — you'll hear it spoken in Animalese!
+
+## 💡 Features to Add (Future Ideas)
+
 1.Export final speech as an audio file
 2.Add a GUI for input
 3.Adjust speed/pitch of speech
 4.Support punctuation and emojis
 
-#📚 Credits
+## 📚 Credits
 Inspired by Animal Crossing's signature speech style. This project is for fun and learning purposes.
 
 Have fun speaking Animalese! 🐶🐱🎶

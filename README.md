@@ -47,4 +47,4 @@ pip install playsound
 ## 📚 Credits
 Inspired by Animal Crossing's signature speech style. This project is for fun and learning purposes.
 
-Have fun speaking Animalese! 🐶🐱🎶
+Have fun speaking Animalese! 🐶🐱
